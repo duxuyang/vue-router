@@ -7,7 +7,7 @@ function resolve(dir) {
   }
 module.exports={
   publicPath: './',
-    
+    outputDir:'dist',
    lintOnSave: false, // eslint-loader 是否在保存的时候检查
    css: {
     // 是否使用css分离插件 ExtractTextPlugin
