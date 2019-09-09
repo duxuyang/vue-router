@@ -2,6 +2,7 @@
   <div>
     <p>list2</p>
     <router-link to="/list3">list3</router-link>
+		<common1></common1><common2></common2>
   </div>
 </template>
 
@@ -13,7 +14,7 @@
 			}
 		},
 		mounted(){
-			console.log("list2测试");
+			
 		}
   }
 </script>

@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>list3</p>
+		<common1></common1><common2></common2>
   </div>
 </template>
 
